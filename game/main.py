@@ -8,7 +8,7 @@ pygame.font.init()
 # Global Vars & Conts ======================================
 WIDTH, HEIGHT = 600, 600
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Space Shooter Game | Korsat X Parmaga")
+pygame.display.set_caption("py game by shaker")
 main_font = pygame.font.SysFont("comicsans", 35)
 lost_font = pygame.font.SysFont("comicsans", 45)
 
